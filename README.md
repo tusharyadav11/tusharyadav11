@@ -4,7 +4,9 @@
 I build software across backend systems, cloud infrastructure, and modern web applications — APIs, databases, caching, and production deployments.
 
 ### 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,django,flask,nodejs,express,js,ts,react,nextjs,angular,vue,html,css,tailwind,mysql,postgres,mongodb,redis,docker,aws,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,django,flask,nodejs,express,js,ts,react,nextjs,angular,vue,html,css,tailwind,bootstrap,sass,redux&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,docker,kubernetes,aws,gcp,azure,nginx,graphql,kafka&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,jenkins,terraform,linux,figma,postman,vscode,npm,vite,c,cpp&perline=13)](https://skillicons.dev)
 
 ### 📊 GitHub Stats
 <p align="left">
