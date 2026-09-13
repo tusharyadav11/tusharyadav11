@@ -45,5 +45,3 @@
 ### 📈 Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tusharyadav11&theme=github-compact)
 
-### 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tusharyadav11&theme=dark&hide_border=true)
