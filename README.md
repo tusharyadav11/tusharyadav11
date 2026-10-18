@@ -11,12 +11,3 @@ I build software across backend systems, cloud infrastructure, and modern web ap
 
 ### 🏆 Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=tusharyadav11&theme=radical&no-frame=true&row=1&column=7)
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tusharyadav11&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharyadav11&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180em" />
-</p>
-
-### 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tusharyadav11&theme=react-dark)
